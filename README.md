@@ -1,5 +1,5 @@
 ## Who am I ?
-After 3 years of intensive scientific studies, I am currently at CentraleSupélec, a top French Engineering school. With my broad engineering background and my strong scientific mind, I am namely interested in the domain of data science, and also in programming in general. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
+After 3 years of intensive scientific studies, I am currently at CentraleSupélec, a top French Engineering school. With my broad engineering background and my strong scientific mind, I am namely interested in the domain of machine learning, blockchain and actaully everything that is or is close to a computer. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
 
 ## Areas of expertise
 ### Non programming domains:
@@ -13,8 +13,9 @@ After 3 years of intensive scientific studies, I am currently at CentraleSupéle
 
 #### Languages : 
 * HTML/CSS
-* Python : numpy, pandas, pyplot, seaborn, tensorflow, flask 
+* Python : numpy, pandas, pyplot, seaborn, tensorflow, scikit-learn flask 
 * Javascript/Typescript
+* Java
 * SQL
 * LateX
 
