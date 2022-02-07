@@ -10,7 +10,8 @@ I am currenyl doing Master Of Engineering at CentraleSupélec, a top French Engi
 * LateX
 
 ## Contact
-[![LinkedIn logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ALinkedIn_logo_initials.png&psig=AOvVaw09ZmyZXDr1ncYaExv7blWx&ust=1619560123853000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiGyuDxnPACFQAAAAAdAAAAABAD)](https://www.linkedin.com/in/benjamin-rio-3884b5166/)
+Feel free to reach out or connect on Linkedin
+[![LinkedIn logo](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/benjamin-rio-3884b5166/)
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
