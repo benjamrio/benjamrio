@@ -1,17 +1,7 @@
 ## Who am I ?
-After 3 years of intensive scientific studies, I am currently at CentraleSupélec, a top French Engineering school. With my broad engineering background and my strong scientific mind, I am namely interested in the domain of machine learning, blockchain and actaully everything that is or is close to a computer. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
+I am currenyl doing Master Of Engineering at CentraleSupélec, a top French Engineering school, part of the Paris Saclay University (#1 in Maths worldwide - Shangai ranking). With my broad engineering background and my strong scientific mind, I am namely interested in the domain of machine learning, blockchain and software engineering. Well, everything that is related to technology. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
 
-## Areas of expertise
-### Non programming domains:
-* Maths : statistics and probability, Partial Differential Equations
-* Physics : Mechanics, Thermodynamics, Vibrations a Waves Phenomena, Optics, Quantum Mechanics
-* Engineering : 
-
-### Progamming
-#### Domains
-* Data Science : Data modelling, Data Analysis, Data cleaning, Data Preprocessing, Model Selection,
-
-#### Languages : 
+## Languages : 
 * HTML/CSS
 * Python : numpy, pandas, pyplot, seaborn, tensorflow, scikit-learn flask 
 * Javascript/Typescript
