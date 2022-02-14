@@ -1,13 +1,5 @@
 ## Who am I ?
-I am currently doing a Master Of Engineering at CentraleSupélec, a top French Engineering school, part of the Paris Saclay University (#1 in Maths worldwide - Shangai ranking). With my broad engineering background and my strong scientific mind, I am namely interested in the domains of machine learning, blockchain and software engineering. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics. 
-
-## Languages : 
-* HTML/CSS
-* Python : numpy, pandas, pyplot, seaborn, tensorflow, scikit-learn, flask 
-* Javascript/Typescript
-* Java
-* SQL
-* LateX
+I am currently doing a Master Of Engineering at CentraleSupélec, a top French Engineering school, part of the Paris Saclay University (#1 in Maths worldwide - Shangai ranking). With my broad engineering background and my strong scientific mind, I am namely interested in the domains of machine learning, blockchain and software engineering. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
 
 ## Contact
 Feel free to reach out or connect on 
