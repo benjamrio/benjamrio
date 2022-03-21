@@ -1,5 +1,8 @@
 ## Who am I ?
-Driven and ethusiast Meng student at at CentraleSupélec, I love to discover and learn new things. Looking forward to meet clients' digital needs with efficient and innovative solutions. 
+Driven and ethusiast Meng student at CentraleSupélec, I love to discover and learn new things. Looking forward to meet clients' digital needs with efficient and innovative solutions. 
+
+Always eager to start a new project!
+
 
 ## Contact
 Feel free to reach out or connect on 
