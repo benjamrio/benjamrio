@@ -1,5 +1,5 @@
 ## Who am I ?
-I am currently doing a Master Of Engineering at CentraleSupélec, a top French Engineering school, part of the Paris Saclay University (#1 in Maths worldwide - Shangai ranking). With my broad engineering background and my strong scientific mind, I am namely interested in the domains of machine learning, blockchain and software engineering. Always looking forward to acquiring knowledge and skills through meaningful experiences, I am eager to unravel complex problematics.
+Driven and ethusiast Meng student at at CentraleSupélec, I love to discover and learn new things. Looking forward to meet clients' digital needs with efficient and innovative solutions. 
 
 ## Contact
 Feel free to reach out or connect on 
