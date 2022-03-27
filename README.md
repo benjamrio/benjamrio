@@ -15,7 +15,7 @@
 ### Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-2596be?&style=flat&logo=Jupyter)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?&style=flat&logo=Jupyter)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?&style=flat&logo=tensorflow)
