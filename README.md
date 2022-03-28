@@ -30,7 +30,7 @@
 
 
 ### Contact Me!
-📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](href="https://twitter.com/messages/compose?recipient_id=KeyzTheDev&text=Hello%20Benjamin!) for questions or collaborations.<br>
+📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](https://twitter.com/messages/compose?recipient_id=1351485356944859136&text=Hi%20Benjamin!) for questions or collaborations.<br>
 💡 By the way I have a list of ideas I would like to further design and implement, you can find it [here](https://github.com/benjamrio/project_ideas)! I would be happy to work with you on one of this project.
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
