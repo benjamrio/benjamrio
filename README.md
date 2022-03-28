@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.rio.dev@gmail.com)
 
 ### About me
-🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science<br>
+🎓 MEng student at CentraleSupélec, learning a bitabout everything, but specialized in Maths and Computer Science<br>
 👨‍💻 Enrolled in the Digital Tech Year, a presitigious tech innovation track<br>
 📊 Data Scientist Freelance<br>
 🤖 Machine Learning Engineer for [Paris Digital Lab](https://paris-digital-lab.com/)<br>
@@ -13,7 +13,6 @@
 🦈 Wildlife enthusiast<br>
 
 ### Technologies
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?&style=flat&logo=Jupyter)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy)&nbsp;
@@ -30,6 +29,9 @@
 👀 Looking forward to learn about Big Data and Cloud Computing
 
 
+### Contact Me!
+📧 Drop me a mail or a twitter DM for questions or collaborations.<br>
+💡 By the way I have a list of ideas I would like to further design and implement, you can find it [here](https://github.com/benjamrio/project_ideas)! I would be happy to work with you on one of this project.
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
