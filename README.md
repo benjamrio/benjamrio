@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.rio.dev@gmail.com)
 
 ### About me
-🎓 MEng student at CentraleSupélec, learning a bitabout everything, but specialized in Maths and Computer Science<br>
+🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science (but I also love Physics!)<br>
 👨‍💻 Enrolled in the Digital Tech Year, a presitigious tech innovation track<br>
 📊 Data Scientist Freelance<br>
 🤖 Machine Learning Engineer for [Paris Digital Lab](https://paris-digital-lab.com/)<br>
@@ -30,7 +30,7 @@
 
 
 ### Contact Me!
-📧 Drop me a mail or a twitter DM for questions or collaborations.<br>
+📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](href="https://twitter.com/messages/compose?recipient_id=KeyzTheDev&text=Hello%20Benjamin!) for questions or collaborations.<br>
 💡 By the way I have a list of ideas I would like to further design and implement, you can find it [here](https://github.com/benjamrio/project_ideas)! I would be happy to work with you on one of this project.
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
