@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.rio.dev@gmail.com)
 
 ### About me
-🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science (but I also love Physics!)<br>
+🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science<br>
 👨‍💻 Enrolled in the Digital Tech Year, a presitigious tech innovation track<br>
 📊 Data Scientist Freelance<br>
 🤖 Machine Learning Engineer for [Paris Digital Lab](https://paris-digital-lab.com/)<br>
