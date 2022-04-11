@@ -8,7 +8,7 @@
 🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science<br>
 👨‍💻 Enrolled in the Digital Tech Year, a presitigious tech innovation track<br>
 📊 Data Scientist Freelance<br>
-🤖 Machine Learning Engineer for [Paris Digital Lab](https://paris-digital-lab.com/)<br>
+🤖 Machine Learning Software Engineer for [Paris Digital Lab](https://paris-digital-lab.com/)<br>
 ⛷️ Soon to become ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
