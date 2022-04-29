@@ -27,6 +27,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=E0234E)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=61DAFB)&nbsp;
+![React](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=61DAFB)&nbsp;
 
 👀 Looking forward to learn about Big Data and Cloud Computing
 
