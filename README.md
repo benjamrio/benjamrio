@@ -14,20 +14,20 @@
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?&style=flat&logo=Jupyter)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?&style=flat&logo=Jupyter)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?&style=flat&logo=Numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-pandas-05122A?&style=flat&logo=pandas)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?&style=flat&logo=tensorflow)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Java](https://img.shields.io/badge/-Java-1665BE?style=flat&logo=Java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=E57002)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&logoColor=E0234E)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=61DAFB)&nbsp;
-![React](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=61DAFB)&nbsp;
 
 👀 Looking forward to learn about Big Data and Cloud Computing
 
