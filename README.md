@@ -7,8 +7,7 @@
 ### About me
 🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science<br>
 📊 Tech Freelancer <br>
-🤖 NLP Engineer @Ivalua <br>
-⛷️ Soon to become ski instructor<br>
+⛷️ Ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
 ### Technologies
