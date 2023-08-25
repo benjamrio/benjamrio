@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamin.rio.dev@gmail.com)
 
 ### About me
+🎓 Currently doing MIT Sloan Master of Business Analytics 
 🎓 MEng student at CentraleSupélec, specialized in Maths and Computer Science<br>
 📊 Tech Freelancer <br>
 ⛷️ Ski instructor<br>
