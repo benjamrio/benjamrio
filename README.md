@@ -35,8 +35,6 @@ Current interests :
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=61DAFB)&nbsp;
 
-### Contact Me!
-📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](https://twitter.com/messages/compose?recipient_id=1351485356944859136&text=Hi%20Benjamin!)<br>
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
