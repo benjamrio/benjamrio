@@ -7,11 +7,10 @@
 ### About me
 🎓 Currently at MIT Sloan Master of Business Analytics<br>
 🎓 MEng at CentraleSupélec, specialized in Data Science<br>
-📊 Tech Freelancer <br>
 ⛷️ Ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
-Current interests : 
+### Current interests : 
 * education
 * information systems, LLMs, AI, ML, optimization
 * life, entropy and evolution
