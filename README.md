@@ -10,7 +10,7 @@
 ⛷️ Ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
-### Current interests : 
+### Current interests
 * education
 * information systems, LLMs, AI, ML, optimization
 * life, entropy and evolution
