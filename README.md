@@ -11,6 +11,12 @@
 ⛷️ Ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
+Current interests : 
+* education
+* information systems, LLMs, AI, ML, optimization
+* life, entropy and evolution
+* changing the current financial system
+
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?&style=flat&logo=Jupyter)&nbsp;
@@ -29,10 +35,8 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=61DAFB)&nbsp;
 
-
 ### Contact Me!
-📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](https://twitter.com/messages/compose?recipient_id=1351485356944859136&text=Hi%20Benjamin!) for questions or collaborations.<br>
-💡 By the way I have a list of ideas I would like to further design and implement, you can find it [here](https://github.com/benjamrio/project_ideas)! I would be happy to work with you on one of this project.
+📧 Drop me a [mail](mailto:benjamin.rio.dev@gmail.com) or a [Twitter DM](https://twitter.com/messages/compose?recipient_id=1351485356944859136&text=Hi%20Benjamin!)<br>
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
