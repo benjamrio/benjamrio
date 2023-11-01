@@ -12,9 +12,8 @@
 
 ### Current interests
 * education
-* information systems, LLMs, AI, ML, optimization
-* life, entropy and evolution
-* changing the current financial system
+* LLMs, AI, ML, optimization
+* information in economics and social sciences
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
