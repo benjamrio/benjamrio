@@ -14,6 +14,7 @@
 * LLMs, ML, and optimization
 * privacy in data markets
 * decentralized service markets
+* open crowdsourced education
 
 <!---
 benjamrio/benjamrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
