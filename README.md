@@ -10,7 +10,8 @@
 ⛷️ Ski instructor<br>
 🦈 Wildlife enthusiast<br>
 
-### Current interests
+### Interests
+* LLMs, ML, and optimization
 * privacy in data markets
 * decentralized service markets
 
